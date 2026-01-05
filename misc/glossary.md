@@ -1,1 +1,3 @@
+# Glossary
 
+\[TO BE ADDED]

@@ -1,51 +1,38 @@
 # Introduction
 
-## 1. Introduction & Overview
+## Introduction
 
-1.1 About AI4I-OrchestrateAI4I-Orchestrate is a Digital Public Good (DPG) that acts as a unified runtime orchestration and governance layer for Language AI systems. It provides a single, stable, and governed execution layer for serving multilingual AI models across applications, departments, and ecosystems.
+### About AI4I-Orchestrate
 
-***
+AI4I-Orchestrate is a Digital Public Good (DPG) that provides a unified runtime orchestration and governance layer for Language AI systems. It serves as a single, stable execution layer through which multilingual AI models are deployed, accessed, and governed across applications, departments, and ecosystems.
 
-**1.2 Purpose & Vision**
+Rather than applications integrating directly with individual AI models or vendors, AI4I-Orchestrate introduces a centralized control plane that standardizes access, enforces policy, and ensures reliable inference at scale.
 
-The purpose of AI4I-Orchestrate is to turn Language AI models into reliable, governed, and scalable public infrastructure. It ensures that models can be deployed, accessed, and managed safely at national and population scale while maintaining sovereignty, cost efficiency, and quality.
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-***
+### Purpose & Vision
 
-**1.3 Problem Space & Motivation**
+The purpose of AI4I-Orchestrate is to transform Language AI models into dependable public infrastructure. It enables governments and large ecosystems to operate AI systems that are sovereign, cost-efficient, observable, and continuously improving.
 
-Modern Language AI deployments suffer from:
+AI4I-Orchestrate is designed to support population-scale deployments where trust, governance, and sustainability are as critical as performance.
 
-* Fragmented model integrations
-* Vendor lock-in
-* Lack of governance and observability
-* Uncontrolled costs
-* Inconsistent quality across languages and domains
+### Problem Space & Motivation
 
-AI4I-Orchestrate addresses these issues by introducing a centralized runtime control plane for all Language AI inference.
+Modern Language AI deployments face several systemic challenges:
 
-***
+* Fragmented integrations with multiple model providers
+* Lack of centralized governance and policy enforcement
+* Uncontrolled operational costs
+* Limited visibility into quality and performance
+* Vendor lock-in and reduced sovereignty
 
-**1.4 Who Should Use AI4I-Orchestrate**
+AI4I-Orchestrate addresses these challenges by introducing a unified runtime layer that governs how AI inference is executed across the ecosystem.
+
+### Who Should Use AI4I-Orchestrate
+
+AI4I-Orchestrate is intended for:
 
 * Government platforms and national AI missions
-* DPI builders (health, education, justice, agriculture)
+* Digital Public Infrastructure (DPI) builders
 * Enterprises managing multi-model AI stacks
-* Research labs deploying models in real-world settings
-
-***
-
-**1.5 Position in the AI4Inclusion Ecosystem**
-
-AI4I-Orchestrate sits between:
-
-* Model builders and registries
-* Application layers and citizen services
-
-It connects:
-
-* AI4I-Contribute (data creation)
-* Model training pipelines
-* Real-world applications
-
-Serving as the **runtime backbone** of the AI4Inclusion ecosystem.
+* Research institutions deploying models in real-world environments
