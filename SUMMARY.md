@@ -1,10 +1,8 @@
 # Table of contents
 
-* [README](README.md)
-
 ## Learn
 
-* [Introduction](learn/introduction.md)
+* [Introduction](README.md)
 * [Position in the Ecosystem](learn/ecosystem-positioning.md)
 * [Concepts & Terminology](learn/concepts-terminology.md)
 * [Scope & Boundaries](learn/scope-boundaries.md)
