@@ -2,7 +2,7 @@
 
 ## 1. Introduction & Overview
 
-1.1 About AI4I-OrchestrateAI4I-Orchestrate is a Digital Public Good (DPG) that acts as a unified runtime orchestration and governance layer for Language AI systems. It provides a single, stable, and governed execution layer for serving multilingual AI models across applications, departments, and ecosystems.![](https://images.gitbook.com/__img/dpr=2,width=760,onerror=redirect,format=auto,signature=-159026928/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%2FIMoZU6czey0EKYxuvH3h%2Fuploads%2FNqBEFbKIsyh1aAhgVPtZ%2Fimage.png%3Falt%3Dmedia%26token%3D13f0db10-1d8a-425a-8332-b66e5a0781a3)
+1.1 About AI4I-OrchestrateAI4I-Orchestrate is a Digital Public Good (DPG) that acts as a unified runtime orchestration and governance layer for Language AI systems. It provides a single, stable, and governed execution layer for serving multilingual AI models across applications, departments, and ecosystems.
 
 ***
 
