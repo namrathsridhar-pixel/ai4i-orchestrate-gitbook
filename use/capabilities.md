@@ -13,13 +13,13 @@ AI4I-Orchestrate provides the following core capabilities:
 
 ### Supported Modalities
 
-* Automatic Speech Recognition (ASR)
-* Neural Machine Translation (NMT)
-* Text-to-Speech (TTS)
-* Optical Character Recognition (OCR)
-* Large Language Models (LLMs)
-* Natural Language Understanding tasks
-
-### Out of Scope
-
-\[TO BE ADDED – not explicitly defined in current PDFs]
+* **Automatic Speech Recognition (ASR)** – Converts spoken audio into text
+* **Neural Machine Translation (NMT)** – Translates text across multiple languages
+* **Text-to-Speech (TTS)** – Converts text into natural-sounding speech
+* **Optical Character Recognition (OCR)** – Extracts text from images
+* **Transliteration Service** – Converts text from one script to another while preserving pronunciation
+* **Language Detection** – Automatically identifies the language of input text
+* **Speaker Diarization** – Identifies and separates different speakers within an audio stream
+* **Language Diarization** – Detects and segments multiple languages used within the same audio
+* **Audio Language Detection** – Identifies the spoken language directly from audio input
+* **Named Entity Recognition (NER)** – Extracts structured entities such as names, locations, organizations, dates, etc., from text
