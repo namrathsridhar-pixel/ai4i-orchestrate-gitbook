@@ -9,9 +9,9 @@
 
 ## Use
 
-* [Capabilities](use/capabilities.md)
-* [Architecture](use/architecture.md)
-* [Components](use/components.md)
+* [Home](use/capabilities.md)
+* [API Documentation](use/architecture.md)
+* [Architecture](use/components.md)
 * [Request Flow](use/request-flow.md)
 * [APIs](use/apis/overview.md)
   * [Authentication](use/apis/authentication.md)
