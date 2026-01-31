@@ -12,12 +12,7 @@
 * [Home](use/capabilities.md)
 * [API Documentation](use/architecture.md)
 * [Architecture](use/components.md)
-* [Request Flow](use/request-flow.md)
-* [APIs](use/apis/overview.md)
-  * [Authentication](use/apis/authentication.md)
-  * [Telemetry](use/apis/telemetry.md)
-* [Workflows](use/workflows.md)
-* [Deployment & Operations](use/deployment.md)
+* [Troubleshooting Guide](use/request-flow.md)
 
 ## Engage
 
